@@ -1,0 +1,5 @@
+Kết quả BFS: 
+13 <= 11 <= 8 <= 3 <= 0
+Tổng quãng đường nhỏ nhất là: 396
+Execution time: 0 miliseconds
+Memory Usage: 45024 bytes
